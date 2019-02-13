@@ -10,7 +10,7 @@
 
       <van-popup
         v-model="showList"
-        position="bottom"
+        position="right"
         :lazy-render="false"
       >
         <van-contact-list
